@@ -1,0 +1,2 @@
+# Real_Estate_Web
+ Real Estate Web is a front-end project developed using React, aimed at providing a seamless and intuitive property browsing experience. This project features dynamic property listings, search filters, and responsive layouts, catering to users' real estate needs. Designed for easy scalability and enhanced performance, it demonstrates React’s potential in creating interactive UIs.
